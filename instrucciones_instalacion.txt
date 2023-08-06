@@ -6,6 +6,9 @@ npm init
 npm install
 npm install -g create-react-app
 npx create-react-app .
+npm start  # puerto 3000
+
+
 
   npm start
     Starts the development server.
@@ -19,4 +22,23 @@ npx create-react-app .
   npm run eject
     Removes this tool and copies build dependencies, configuration files
     and scripts into the app directory. If you do this, you can’t go back!
+
+
+
+Conectar
+git init
+git commit -m "First commit
+#registrarse
+git add .
+git push -u origin main
+
+
+Crear rama
+
+git branch manuel
+git add .
+git commit -m "Rama Manuel" 
+git checkout Manuel
+
+
 
